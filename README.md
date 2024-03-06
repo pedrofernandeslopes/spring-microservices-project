@@ -16,8 +16,8 @@ O sistema é composto por diversos microserviços interconectados:
 - **Serviço de Autorização:** Implementa os protocolos OAuth e JWT para garantir a segurança dos dados.
 
 Os microserviços se registram em um servidor de descoberta (EURECA) para facilitar a comunicação, e um API Gateway é utilizado para rotear as requisições dos clientes para os serviços apropriados.
-![Descrição da Imagem](modelo-conceitual.jpg)
-![Descrição da Imagem](modelo-microsservicos.jpg)
+![Modelo Conceitual](modelo-conceitual.png)
+![Microsservicos](modelo-microsservicos.png)
 
 ## Funcionalidades Principais
 
